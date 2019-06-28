@@ -2,4 +2,4 @@
 just another repository
 i am learning something new which is really useful for my career
 i want to test something!!
-it is wonderful
+it is wonrful
